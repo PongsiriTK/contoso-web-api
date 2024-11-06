@@ -9,7 +9,7 @@ const HOST = "0.0.0.0"
 const app = express()
 
 app.get('/', async (req, res) => {
-    res.send('Hello Muay Thai - 2.0.0')
+    res.send('Hello Muay Thai - 3.0.0')
 })
 
 // app.use(cors({
