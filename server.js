@@ -13,7 +13,7 @@ app.get('/', async (req, res) => {
 })
 
 app.use(cors({
-    origin: ['https://20ab-172-191-205-199.ngrok-free.app']
+    origin: ['https://4606-172-191-205-199.ngrok-free.app']
   }))
 
 app.listen(PORT, () => {
